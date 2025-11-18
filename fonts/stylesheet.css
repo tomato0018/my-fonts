@@ -34,8 +34,8 @@
 }
 
 @font-face {
-  font-family: 'KyoboHandwriting2024SeoWooPark';
-  src: url('https://cdn.jsdelivr.net/gh/Chamchi-Rockstar/my-fonts@main/fonts/KyoboHandwriting2024SeoWooPark.woff2') format('woff2');
+  font-family: '교보 손글씨 2024 박서우';
+  src: url('https://cdn.jsdelivr.net/gh/Chamchi-Rockstar/my-fonts@main/fonts/교보-손글씨-2024-박서우.woff2') format('woff2');
   font-weight: normal;
   font-display: swap;
 }
